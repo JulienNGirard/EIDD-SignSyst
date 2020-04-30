@@ -1,3 +1,5 @@
+gcc
+gcc-c++
 octave
 octave-symbolic
 octave-miscellaneous
