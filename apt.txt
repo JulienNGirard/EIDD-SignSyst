@@ -1,5 +1,7 @@
+build-essential
 gcc
 gcc-c++
+kernel-devel
 octave
 octave-symbolic
 octave-miscellaneous
