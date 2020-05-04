@@ -2,11 +2,9 @@ build-essential
 gcc
 octave
 liboctave-dev
-octave-symbolic
 octave-miscellaneous
 octave-control
 octave-image
 octave-signal
 gnuplot
 ghostscript
-wget
