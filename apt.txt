@@ -5,6 +5,7 @@ liboctave-dev
 octave-miscellaneous
 octave-control
 octave-image
+octave-communications
 octave-signal
 gnuplot
 ghostscript
